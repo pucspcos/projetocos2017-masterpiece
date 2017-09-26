@@ -1,6 +1,6 @@
 # Nome do projeto
 
-Descreva aqui o que é o projeto e indique o link da Wiki para saber mais sobre o projeto
+A ideia é produzir um jogo de corrida a partir do projeto Tanks!
 
 # Nome compledo dos integrantes do projeto:
 
