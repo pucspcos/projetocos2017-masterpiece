@@ -20,4 +20,4 @@ A ideia é produzir um jogo de corrida a partir do projeto Tanks! com geração 
 
 # Link no Itch IO para o download dos executáveis do jogo:
 
-Colocar o link no Itch IO.
+https://fernandojr.itch.io/toyrace
